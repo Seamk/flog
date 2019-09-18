@@ -1,5 +1,8 @@
 package com.fu.lei.flog.dto;
 
+import java.sql.Timestamp;
+import lombok.Data;
+
 @Data
 public class UserDto {
     private String userAccount;
